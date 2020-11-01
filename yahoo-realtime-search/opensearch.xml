@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>Yahoo Realtime (JP)</ShortName>
+  <Description>Yahoo Realtime (JP)</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="64" height="64">https://search.yahoo.co.jp/favicon.ico</Image>
+  <Url type="text/html" method="get" template="http://search.yahoo.co.jp/realtime/search?p={searchTerms}"/>
+  <moz:SearchForm>http://search.yahoo.co.jp/realtime</moz:SearchForm>
+</OpenSearchDescription>
